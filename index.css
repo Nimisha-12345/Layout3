@@ -167,7 +167,6 @@
 }
 .foot p {
   margin-top: 30px;
-
 }
 
 @media (min-width: 400px) {
@@ -191,7 +190,6 @@
     padding-right: 73px;
     font-size: 18px;
   }
-  
 }
 @media (min-width: 750px) {
   .grid-s {
@@ -212,7 +210,6 @@
     padding-right: 5px;
   }
   .foot p {
-    
     padding-top: 58px;
     font-size: 18px;
     padding-bottom: 60px;
